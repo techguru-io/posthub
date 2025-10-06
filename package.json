@@ -71,7 +71,7 @@
     "@nestjs/throttler": "^6.3.0",
     "@neynar/nodejs-sdk": "^2.8.1",
     "@neynar/react": "^0.9.7",
-    "@postiz/wallets": "^0.0.1",
+    "@posthub/wallets": "^0.0.1",
     "@prisma/client": "^6.5.0",
     "@sentry/nestjs": "^10.12.0",
     "@sentry/nextjs": "^10.12.0",
